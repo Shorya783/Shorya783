@@ -199,23 +199,8 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 </div>
 
 ---
-
----
-
 ---
 
 <div align="center">
-
-<h3>✨ Thanks for Visiting My Profile ✨</h3>
-
-<p>
-Building scalable AI systems with <b>LLMs</b>, <b>RAG</b>, <b>Computer Vision</b>, and <b>Generative AI</b>.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Happy+Coding!;Keep+Learning+Keep+Building!;Let's+Create+Impact+with+AI!;See+You+Again!+👋" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&color=gradient"/>
 </div>
