@@ -118,14 +118,17 @@ Production GenAI Applications
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 </p>
-## 👨‍💻 About Me
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&width=1000&section=header&text=Who%20Am%20I&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%2FML%20Engineer%20crafting%20intelligent%2C%20real-world%20systems&descAlignY=65&descSize=15)
 
-- 🎓 B.Tech Computer Science student at **VIT Bhopal University** (Class of 2027)
-- 🤖 AI/ML Engineer passionate about **Machine Learning, Deep Learning, and Generative AI**
-- 🧠 Building intelligent AI systems using **LLMs and Retrieval-Augmented Generation (RAG)**
-- 🚀 Experienced in developing end-to-end AI applications with **Python, LangChain, Streamlit, TensorFlow and FAISS**
-- 📚 Currently exploring **Agentic AI, AI Agents, MLOps, and scalable AI deployment**
-- 💻 Solved **200+ DSA problems** across **LeetCode**
+</div>
+- 🎓 B.Tech Computer Science student at VIT Bhopal University** (Class of 2027)<br>
+- 🤖 AI/ML Engineer passionate about **Machine Learning, Deep Learning, and Generative AI**<br>
+- 🧠 Building intelligent AI systems using **LLMs and Retrieval-Augmented Generation (RAG)**<br>
+- 🚀 Experienced in developing end-to-end AI applications with **Python, LangChain, Streamlit, TensorFlow and FAISS**<br>
+- 🛠️ Currently exploring **Agentic AI, AI Agents, MLOps, and scalable AI deployment**<br>
+- 💻 Solved **200+ DSA problems** across **LeetCode**<br>
 - 🌟 Open to **AI/ML Engineer**, **Generative AI**, and **Machine Learning** internship opportunities
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
