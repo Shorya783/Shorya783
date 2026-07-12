@@ -200,12 +200,8 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 
 ---
 
+---
+
 <div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-Building intelligent AI systems together with **LLMs**, **RAG**, **Computer Vision**, and **Generative AI**.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&color=gradient"/>
 </div>
