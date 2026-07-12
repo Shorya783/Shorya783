@@ -11,8 +11,8 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 </p>
 
 </div>
+
 <div align="center">
-## 🧠 AI Engineer Dashboard
 | 🚀 Current Role | 🤖 Focus Areas | 🛠️ Primary Language |
 |:---------------:|:--------------:|:-------------------:|
 | AI / ML Engineer | LLMs • RAG • Langchain | Python |
