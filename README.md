@@ -12,6 +12,26 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 
 </div>
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shorya-pathak-a97a7434b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shoryapathak787@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/user4240sr/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+  <img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</div>
+
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student @ VIT Bhopal University
