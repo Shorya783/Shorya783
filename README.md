@@ -11,6 +11,17 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 </p>
 
 </div>
+## 🧠 AI Engineer Dashboard
+<div align="center">
+
+| 🚀 Current Role | 🤖 Focus Areas | 🛠️ Primary Language |
+|:---------------:|:--------------:|:-------------------:|
+| AI / ML Engineer | LLMs • RAG • Computer Vision | Python |
+
+| 📍 Current Goal | ⚡ Open To | ☁️ Deployment |
+|:---------------:|:---------:|:-------------:|
+| Building AI Applications | Internships & Open Source | Streamlit • FastAPI |
+</div>
 
 <div align="center">
 
