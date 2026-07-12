@@ -243,7 +243,7 @@ Production GenAI Applications
 </tr>
 </table>
 
-[![Repo](https://img.shields.io/badge/🔗_Repository-0f0c29?style=for-the-badge)](#)
+[![Repo](https://img.shields.io/badge/🔗_Repository-0f0c29?style=for-the-badge)](https://github.com/Shorya783/Shorya783)
 [![Demo](https://img.shields.io/badge/🌐_Live_Demo-302b63?style=for-the-badge)](#)
 
 </div>
