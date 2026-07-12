@@ -34,11 +34,13 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student @ VIT Bhopal University
-- 🤖 AI/ML Engineer
-- 🌱 Currently learning Agentic AI & MLOps
-- 🚀 Interested in NLP and  Generative AI
-- 💡 Building AI solutions using Python, LangChain and Streamlit
+- 🎓 B.Tech Computer Science student at **VIT Bhopal University** (Class of 2027)
+- 🤖 AI/ML Engineer passionate about **Machine Learning, Deep Learning, and Generative AI**
+- 🧠 Building intelligent AI systems using **LLMs and Retrieval-Augmented Generation (RAG)**
+- 🚀 Experienced in developing end-to-end AI applications with **Python, LangChain, Streamlit, TensorFlow and FAISS**
+- 📚 Currently exploring **Agentic AI, AI Agents, MLOps, and scalable AI deployment**
+- 💻 Solved **200+ DSA problems** across **LeetCode**
+- 🌟 Open to **AI/ML Engineer**, **Generative AI**, and **Machine Learning** internship opportunities
 
 ---
 
