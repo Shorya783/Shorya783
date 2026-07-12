@@ -14,14 +14,6 @@ alt="AI Portfolio Animation"
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Initializing+AI+Portfolio...;Loading+Machine+Learning+Modules...;Loading+Computer+Vision...;Loading+LLMs+and+RAG...;System+Ready+✓"/>
 </div>
-<div align="center">
-  <img 
-    src="images.jpg"
-    width="500"
-    Height="400"
-    alt="AI ML Engineer Banner"
-  />
-</div>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Building+LLM+Applications;Developing+RAG+Pipelines;Engineering+Generative+AI+Solutions" alt="Typing SVG" />
@@ -123,13 +115,26 @@ Production GenAI Applications
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&width=1000&section=header&text=Who%20Am%20I&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%2FML%20Engineer%20crafting%20intelligent%2C%20real-world%20systems&descAlignY=65&descSize=15)
 
 </div>
-- 🎓 B.Tech Computer Science student at VIT Bhopal University** (Class of 2027)<br>
-- 🤖 AI/ML Engineer passionate about **Machine Learning, Deep Learning, and Generative AI**<br>
-- 🧠 Building intelligent AI systems using **LLMs and Retrieval-Augmented Generation (RAG)**<br>
-- 🚀 Experienced in developing end-to-end AI applications with **Python, LangChain, Streamlit, TensorFlow and FAISS**<br>
-- 🛠️ Currently exploring **Agentic AI, AI Agents, MLOps, and scalable AI deployment**<br>
-- 💻 Solved **200+ DSA problems** across **LeetCode**<br>
-- 🌟 Open to **AI/ML Engineer**, **Generative AI**, and **Machine Learning** internship opportunities
+
+<table width="100%">
+<tr>
+<td valign="middle" width="60%">
+
+- 🎓 B.Tech Computer Science student at <b>VIT Bhopal University</b> (Class of 2027)<br>
+- 🤖 AI/ML Engineer passionate about <b>Machine Learning, Deep Learning, and Generative AI</b><br>
+- 🧠 Building intelligent AI systems using <b>LLMs and Retrieval-Augmented Generation (RAG)</b><br>
+- 🚀 Experienced in developing end-to-end AI applications with <b>Python, LangChain, Streamlit, TensorFlow and FAISS</b><br>
+- 🛠️ Currently exploring <b>Agentic AI, AI Agents, MLOps, and scalable AI deployment</b><br>
+- 💻 Solved <b>200+ DSA problems</b> across <b>LeetCode</b><br>
+- 🌟 Open to <b>AI/ML Engineer</b>, <b>Generative AI</b>, <b>Machine Learning</b> and internship opportunities<br>
+
+</td>
+<td valign="middle" width="40%" align="center">
+
+<img src="images.jpg" width="280"/>
+</td>
+</tr>
+</table>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 </p>
