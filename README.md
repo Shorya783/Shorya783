@@ -10,7 +10,7 @@ alt="AI Portfolio Animation"
 </div>
 <div align="center">
 <img 
-src="https://https://github.com/samadpls/Programing-Gifs.gif"
+src="https://https://github.com/samadpls/Programing-Gifs.gif" 
 width="100%"
 alt="AI ML Engineer Banner"
 />
