@@ -12,10 +12,6 @@ alt="AI Portfolio Animation"
   />
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Initializing+AI+Portfolio...;Loading+Machine+Learning+Modules...;Loading+Computer+Vision...;Loading+LLMs+and+RAG...;System+Ready+✓"/>
-</div>
-
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Building+LLM+Applications;Developing+RAG+Pipelines;Engineering+Generative+AI+Solutions" alt="Typing SVG" />
 
 <p>
@@ -363,7 +359,13 @@ A **multiclass MRI classification system** for automated brain tumor detection u
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 </p>
-## 📊 GitHub Analytics
+<div align="center">
+
+## 📈 Behind The Commits
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=92FE9D&center=true&vCenter=true&width=550&lines=Commits%2C+Streaks%2C+and+Chaos;A+Peek+Into+My+GitHub+Life" alt="Typing SVG"/>
+
+</div>
 
 <div align="center">
 
