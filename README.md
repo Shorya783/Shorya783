@@ -9,25 +9,71 @@
 <p>
 Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vision</b>, and <b>Deep Learning</b> to solve real-world challenges.
 </p>
-
 </div>
 
 <div align="center">
+<h2>🤖 AI Dashboard</h2>
 
-# 🤖 AI Dashboard
+<table>
+<tr>
+<td align="center" width="250">
+
+### 👤 Profile
+
+AI / ML Engineer
+
+</td>
+
+<td align="center" width="250">
+
+### 🚀 Current Focus
+
+LLMs • RAG • Computer Vision
+
+</td>
+
+<td align="center" width="250">
+
+### 🛠️ Tech Stack
+
+Python • TensorFlow • LangChain
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### ☁️ Deployment
+
+Streamlit
+
+</td>
+
+<td align="center">
+
+### 🎯 Goal
+
+Production GenAI Applications
+
+</td>
+
+<td align="center">
+
+### 📈 Status
+
+🟢 Open to AI/ML Opportunities
+
+</td>
+
+</tr>
+
+</table>
+
 </div>
 
-| 🧑‍💻 **Profile** | 🚀 **Current Focus** |
-|:----------------:|:--------------------:|
-| AI / ML Engineer | LLMs • RAG • Computer Vision |
-
-| 🛠️ **Tech Stack** | ☁️ **Deployment** |
-|:----------------:|:-----------------:|
-| Python • TensorFlow • LangChain | Streamlit |
-
-| 🎯 **Current Goal** | 📈 **Status** |
-|:-------------------:|:-------------:|
-| Production GenAI Applications | 🟢 Open to Work |
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shorya-pathak-a97a7434b/">
