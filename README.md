@@ -13,7 +13,7 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 <div align="center">
 <h2>🤖 AI Dashboard</h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,50:8A2BE2,100:00E5FF"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 </p>
 <table>
 <tr>
@@ -118,9 +118,6 @@ Production GenAI Applications
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
-</p>
 
 ### 🤖 AI / Machine Learning
 
@@ -135,9 +132,6 @@ Production GenAI Applications
 <img src="https://img.shields.io/badge/EDA-6C5CE7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Model%20Optimization-E67E22?style=for-the-badge"/>
 </p>
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
-</p>
 ### 🧠 LLMs & Generative AI
 <p align="left">
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
@@ -151,9 +145,6 @@ Production GenAI Applications
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Fine--Tuning-27AE60?style=for-the-badge"/>
 </p>
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
-</p>
 ### 🗄️ Databases & Vector Databases
 
 <p align="left">
@@ -162,9 +153,6 @@ Production GenAI Applications
 <img src="https://img.shields.io/badge/ChromaDB-7D3C98?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Weaviate-00C4B4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
-</p>
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 </p>
 ### ☁️ Tools & Deployment
 
@@ -197,9 +185,6 @@ Production GenAI Applications
 🔗 **Repository:** *Add GitHub Link*
 
 🌐 **Live Demo:** *Add Streamlit Link*
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
-</p>
 
 ### 🏥 Hybrid Healthcare RAG Assistant
 
@@ -217,9 +202,6 @@ Production GenAI Applications
 - Integrated **Google Maps API** to recommend nearby hospitals and healthcare facilities.
 
 🔗 **Repository:** *Add GitHub Link*
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
-</p>
 
 ### 🧠 Brain Tumor Detection using Deep Learning
 
