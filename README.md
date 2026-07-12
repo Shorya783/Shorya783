@@ -138,9 +138,15 @@ Production GenAI Applications
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 </p>
-## 🛠️ Tech Stack
+<div align="center">
 
-### 💻 Languages
+# 🚀 Tech Arsenal
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=550&lines=Languages+%7C+Frameworks+%7C+Tools;The+Stack+Behind+Every+Project" alt="Typing SVG"/>
+
+</div>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C9FF&center=false&vCenter=true&width=600&lines=Languages;Python+%7C+C%2B%2B+%7C+SQL" alt="Typing SVG"/>
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -148,7 +154,7 @@ Production GenAI Applications
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🤖 AI / Machine Learning
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF8C00&center=false&vCenter=true&width=700&lines=AI+%2F+Machine+Learning;TensorFlow+%7C+Keras+%7C+Scikit-Learn;CNNs+%7C+Transfer+Learning+%7C+NLP;Data+Augmentation+%7C+Model+Optimization+%7C+EDA" alt="Typing SVG"/>
 
 <p align="left">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -161,7 +167,7 @@ Production GenAI Applications
 <img src="https://img.shields.io/badge/EDA-6C5CE7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Model%20Optimization-E67E22?style=for-the-badge"/>
 </p>
-### 🧠 LLMs & Generative AI
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF69B4&center=false&vCenter=true&width=700&lines=LLMs+%26+Generative+AI;LangChain+%7C+LlamaIndex+%7C+Ollama;RAG+%7C+Prompt+Engineering+%7C+AI+Agents;Hugging+Face+%7C+Sentence+Transformers;Pydantic+%7C+Fine-Tuning" alt="Typing SVG"/>
 <p align="left">
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LlamaIndex-7B68EE?style=for-the-badge"/>
@@ -174,7 +180,7 @@ Production GenAI Applications
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Fine--Tuning-27AE60?style=for-the-badge"/>
 </p>
-### 🗄️ Databases & Vector Databases
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00CED1&center=false&vCenter=true&width=700&lines=Databases+%26+Vector+Databases;FAISS+%7C+Pinecone+%7C+ChromaDB;Weaviate+%7C+Apache+Cassandra" alt="Typing SVG"/>
 
 <p align="left">
 <img src="https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge"/>
@@ -183,7 +189,7 @@ Production GenAI Applications
 <img src="https://img.shields.io/badge/Weaviate-00C4B4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
 </p>
-### ☁️ Tools & Deployment
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF6347&center=false&vCenter=true&width=600&lines=Tools+%26+Deployment;Git+%7C+GitHub+%7C+Docker+%7C+Streamlit"alt="Typing SVG"/>
 
 <p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
