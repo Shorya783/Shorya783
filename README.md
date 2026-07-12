@@ -188,101 +188,163 @@ Production GenAI Applications
 </p>
 <div align="center">
 
-## 🚀 Featured Projects
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Solutions;RAG+%7C+LLMs+%7C+Deep+Learning;From+Idea+to+Production" alt="Typing SVG" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Featured%20Projects&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%7C%20RAG%20%7C%20Deep%20Learning%20%7C%20Real%20Products&descAlignY=65&descSize=15)
 
 </div>
 
----
+<br>
+<!-- ================= PROJECT 1 ================= -->
+<div align="center">
 
-<table>
-<tr>
-<td width="100%">
+![Project1](https://capsule-render.vercel.app/api?type=rounded&color=0:00c9ff,100:92fe9d&height=55&section=header&text=📄%20AI%20Resume%20Analyzer&fontSize=22&fontColor=0f0c29&fontAlignY=65&width=1000)
 
-### 📄 AI Resume Analyzer
-An AI-powered resume analysis platform that evaluates resumes using a **locally hosted Llama 3.1 model**.
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Llama_3.1-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-<details>
-<summary><b>✨ Key Highlights (click to expand)</b></summary>
-<br>
-- 🖥️ Developed a **local-first** AI resume analyzer using Llama 3.1 via Ollama — **zero API costs**, fully on-device inference
-- 🎯 Designed a **100-point ATS scoring engine** across skills, projects, experience, education, grammar & quantified achievements
-- 🧩 Built structured resume parsing using **Pydantic schemas** for reliable information extraction
-- ☁️ Deployed on **Streamlit Cloud** for seamless accessibility
-</details>
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
-</p>
-</td>
-</tr>
-</table>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&width=900" width="100%"/>
-<table>
+<table width="100%">
 <tr>
-<td width="100%">
-### 🏥 Hybrid Healthcare RAG Assistant
-A Retrieval-Augmented Generation (RAG) system combining **semantic search** with **fine-tuned language models** for healthcare Q&A.
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-00A8E8?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DialoGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentence_Transformers-FFB800?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Fine_Tuning-FF6F00?style=for-the-badge"/>
-</p>
-<details>
-<summary><b>✨ Key Highlights (click to expand)</b></summary>
-<br>
-- 🔀 Engineered a **hybrid RAG pipeline** combining FAISS vector search with a fine-tuned DialoGPT model
-- 🔍 Implemented **semantic retrieval** using Sentence Transformers for accurate, context-aware responses
-- 🛡️ Reduced hallucinations through **dynamic retrieval-generation switching**
-- 🗺️ Integrated **Google Maps API** to recommend nearby hospitals & healthcare facilities
-</details>
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
+<td align="center">
+
+**An AI-powered resume analysis platform** evaluating resumes using a **locally hosted Llama 3.1 model** — zero API cost, fully on-device inference.
+
+![](https://skillicons.dev/icons?i=python,langchain,ollama,pydantic&theme=dark)<img src="https://img.shields.io/badge/-STREAMLIT_DEPLOYED-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 </td>
 </tr>
 </table>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&width=900" width="100%"/>
-<table>
+
+<table width="100%">
 <tr>
-<td width="100%">
-### 🧠 Brain Tumor Detection using Deep Learning
-A **multiclass MRI image classification** system for automated brain tumor detection.
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VGG16-4285F4?style=for-the-badge"/>
-</p>
-<details>
-<summary><b>✨ Key Highlights (click to expand)</b></summary>
+<td align="center" width="50%">🎯 <b>What it does</b></td>
+<td align="center" width="50%">💡 <b>How it works</b></td>
+</tr>
+<tr>
+<td align="left">Evaluates resumes with a 100-point ATS scoring engine</td>
+<td align="left">Skills, projects, experience, education, grammar, and quantified achievements scored as separate modules</td>
+</tr>
+<tr>
+<td align="left">Extracts structured data reliably</td>
+<td align="left">Pydantic schemas validate and structure every parsed field</td>
+</tr>
+<tr>
+<td align="left">Runs fully offline</td>
+<td align="left">Llama 3.1 via Ollama — no external API calls</td>
+</tr>
+<tr>
+<td align="left">Publicly accessible</td>
+<td align="left">Deployed live on Streamlit Cloud</td>
+</tr>
+</table>
+
+[![Repo](https://img.shields.io/badge/🔗_Repository-0f0c29?style=for-the-badge)](#)
+[![Demo](https://img.shields.io/badge/🌐_Live_Demo-302b63?style=for-the-badge)](#)
+
+</div>
+
 <br>
-- 🏗️ Built a multiclass brain tumor detection system using **VGG16 Transfer Learning**
-- 🖼️ Applied **OpenCV** for MRI image preprocessing and enhancement
-- 🩺 Classified MRI scans into **Glioma, Meningioma, Pituitary, and No Tumor** categories
-- 🏆 Achieved **97% accuracy** with a weighted **F1-score of 0.95** across all four classes
-<br>
-**Accuracy:** ![](https://progress-bar.xyz/97/?width=200&color=00c9ff&title=97%25)
-</details>
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
+
+<!-- ================= PROJECT 2 ================= -->
+<div align="center">
+
+![Project2](https://capsule-render.vercel.app/api?type=rounded&color=0:8A2BE2,100:00c9ff&height=55&section=header&text=🏥%20Hybrid%20Healthcare%20RAG%20Assistant&fontSize=22&fontColor=ffffff&fontAlignY=65&width=1000)
+
+<table width="100%">
+<tr>
+<td align="center">
+
+A **Retrieval-Augmented Generation** system pairing semantic search with a fine-tuned language model to answer healthcare questions with **grounded, hallucination-resistant responses**.
+
+![](https://skillicons.dev/icons?i=python,pytorch,huggingface&theme=dark)
+
+<img src="https://img.shields.io/badge/-FAISS_VECTOR_SEARCH-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-GOOGLE_MAPS_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
 </td>
 </tr>
 </table>
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">🎯 <b>What it does</b></td>
+<td align="center" width="50%">💡 <b>How it works</b></td>
+</tr>
+<tr>
+<td align="left">Answers healthcare questions accurately</td>
+<td align="left">Hybrid pipeline: FAISS vector search + fine-tuned DialoGPT</td>
+</tr>
+<tr>
+<td align="left">Understands context, not just keywords</td>
+<td align="left">Sentence Transformers power semantic retrieval</td>
+</tr>
+<tr>
+<td align="left">Minimizes hallucinated answers</td>
+<td align="left">Dynamic retrieval-generation switching decides when to fetch vs. generate</td>
+</tr>
+<tr>
+<td align="left">Adds real-world value</td>
+<td align="left">Recommends nearby hospitals via Google Maps API integration</td>
+</tr>
+</table>
+
+[![Repo](https://img.shields.io/badge/🔗_Repository-0f0c29?style=for-the-badge)](#)
+
+</div>
+
+<br>
+
+<!-- ================= PROJECT 3 ================= -->
+<div align="center">
+
+![Project3](https://capsule-render.vercel.app/api?type=rounded&color=0:ff6a00,100:ee0979&height=55&section=header&text=🧠%20Brain%20Tumor%20Detection%20—%20Deep%20Learning&fontSize=20&fontColor=ffffff&fontAlignY=65&width=1000)
+
+<table width="100%">
+<tr>
+<td align="center">
+
+A **multiclass MRI classification system** for automated brain tumor detection using transfer learning — built for clinical-grade accuracy.
+
+![](https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark)
+
+<img src="https://img.shields.io/badge/-VGG16_TRANSFER_LEARNING-4285F4?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">🎯 <b>What it does</b></td>
+<td align="center" width="50%">💡 <b>How it works</b></td>
+</tr>
+<tr>
+<td align="left">Classifies MRI scans into 4 categories</td>
+<td align="left">Glioma · Meningioma · Pituitary · No Tumor</td>
+</tr>
+<tr>
+<td align="left">Sees cleaner scans</td>
+<td align="left">OpenCV preprocessing enhances raw MRI images</td>
+</tr>
+<tr>
+<td align="left">Learns from limited medical data</td>
+<td align="left">VGG16 transfer learning instead of training from scratch</td>
+</tr>
+<tr>
+<td align="left">Delivers strong, validated results</td>
+<td align="left">97% accuracy · 0.95 weighted F1-score</td>
+</tr>
+</table>
+
+<b>Accuracy</b>&nbsp;&nbsp;![](https://progress-bar.xyz/97/?width=280&color=ff6a00&title=&suffix=%25)
+<br>
+<b>F1-Score</b>&nbsp;&nbsp;![](https://progress-bar.xyz/95/?width=280&color=ee0979&title=)
+
+[![Repo](https://img.shields.io/badge/🔗_Repository-0f0c29?style=for-the-badge)](#)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer)
+
 </div>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
