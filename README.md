@@ -151,7 +151,7 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 
 ### 🧠 Brain Tumor Detection using Deep Learning
 
-**A multiclass MRI image classification system for automated brain tumor detection.**
+**A multiclass MRI image classification system for automated brain tumor detection.** 
 
 **🔧 Tech Stack**
 
