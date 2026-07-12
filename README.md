@@ -202,5 +202,9 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 ---
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Shorya783&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&color=gradient"/>
 </div>
