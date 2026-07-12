@@ -8,12 +8,12 @@ alt="AI Portfolio Animation"
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Initializing+AI+Portfolio...;Loading+Machine+Learning+Modules...;Loading+Computer+Vision...;Loading+LLMs+and+RAG...;System+Ready+✓"/>
 </div>
-<div align="center">
-<img 
-src="https://https://github.com/samadpls/Programing-Gifs.gif" 
-width="100%"
-alt="AI ML Engineer Banner"
-/>
+html<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/samadpls/Programing-Gifs/main/yourfile.gif"
+    width="100%"
+    alt="AI ML Engineer Banner"
+  />
 </div>
 
 <div align="center">
