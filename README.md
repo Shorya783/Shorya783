@@ -202,10 +202,10 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 ---
 
 <div align="center">
-<h2>👀 Visitors</h2>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+GitHub!;Hope+you+like+my+projects!;Feel+free+to+connect+🚀"/>
-<br>
-<img src="https://komarev.com/ghpvc/?username=Shorya783&label=PROFILE+VISITS&color=0891b2&style=for-the-badge"/>
+## 👀 Thanks for Visiting!
+<img src="https://img.shields.io/badge/Profile%20Views-Welcome!-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/AI%20%7C%20ML%20%7C%20LLMs%20%7C%20RAG-Building%20the%20Future-8A2BE2?style=for-the-badge"/>
 </div>
 
 <div align="center">
