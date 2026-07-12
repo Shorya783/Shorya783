@@ -202,12 +202,5 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 ---
 
 <div align="center">
-## 👀 Thanks for Visiting!
-<img src="https://img.shields.io/badge/Profile%20Views-Welcome!-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
-<br><br>
-<img src="https://img.shields.io/badge/AI%20%7C%20ML%20%7C%20LLMs%20%7C%20RAG-Building%20the%20Future-8A2BE2?style=for-the-badge"/>
-</div>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&color=gradient"/>
 </div>
