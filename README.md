@@ -11,7 +11,8 @@ alt="AI Portfolio Animation"
 <div align="center">
   <img 
     src="images.jpg"
-    width="100%" 
+    width="500"
+    Height="400"
     alt="AI ML Engineer Banner"
   />
 </div>
