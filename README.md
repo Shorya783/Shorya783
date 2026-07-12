@@ -198,6 +198,16 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 
 </div>
 
-## 📫 Connect
+---
 
-Coming Soon 🙂
+<div align="center">
+
+<h3>🤝 Let's Build Intelligent AI Solutions Together 🚀</h3>
+
+<i>Always open to collaborations in AI, Machine Learning, LLMs, and Generative AI.</i>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=140&section=footer&animation=fadeIn"/>
+
+</div>
