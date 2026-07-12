@@ -139,9 +139,6 @@ Production GenAI Applications
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 </p>
 ### 🧠 LLMs & Generative AI
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
-</p>
 <p align="left">
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LlamaIndex-7B68EE?style=for-the-badge"/>
