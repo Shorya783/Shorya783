@@ -46,25 +46,69 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-Python • C++ • SQL
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### AI / ML
+---
 
-TensorFlow  • Scikit-Learn • keras • CNNs • Transfer Learning • Data Augmentation • NLP • EDA • Model Optimization
+### 🤖 AI / Machine Learning
 
-### LLM
+<p align="left">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNNs-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Augmentation-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Optimization-E67E22?style=for-the-badge"/>
+</p>
 
-LangChain • Hugging Face • Ollama • FAISS • LlamaIndex • RAG • Prompt Engineering • AI  Agents • Sentence Transformers • Pydantic • Fine tuning
+---
 
-### Tools
+### 🧠 LLMs & Generative AI
 
-Git • Docker • Github • Streamlit
+<p align="left">
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0984E3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-9B59B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sentence%20Transformers-2D3436?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fine--Tuning-27AE60?style=for-the-badge"/>
+</p>
 
-### Databases & Vector Databases
+---
 
-FAISS • Pinecone • ChromaDB • Apache Cassandra • ChromaDB • Weaviate
+### 🗄️ Databases & Vector Databases
+
+<p align="left">
+<img src="https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-0ECAD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-7D3C98?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Weaviate-00C4B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
+</p>
+
+---
+
+### ☁️ Tools & Deployment
+
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 ---
 
 ## 🚀 Featured Projects
