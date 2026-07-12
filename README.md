@@ -390,15 +390,19 @@ A **multiclass MRI classification system** for automated brain tumor detection u
 
 <div align="center">
 
-<a href="https://leetcode.com/u/user4240sr/">
-<img src="https://leetcard.jacoblin.cool/user4240sr?theme=dark&font=Karma&ext=heatmap"/>
-</a>
+### 🧩 LeetCode Grind
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=500&lines=200%2B+Problems+Solved;One+Problem+at+a+Time" alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/user4240sr?theme=dark&font=baloo2&ext=heatmap" width="600"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,100:92fe9d&height=3&width=700"/>
 
 </div>
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
-</p>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&color=gradient"/>
 </div>
