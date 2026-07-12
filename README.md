@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Initializing+AI+Portfolio...;Loading+Machine+Learning+Modules...;Loading+Computer+Vision...;Loading+LLMs+and+RAG...;System+Ready+✓"/>
+</div>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=SHORYA%20PATHAK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Computer%20Vision&descAlignY=55&descSize=20"/>
 </div>
 
