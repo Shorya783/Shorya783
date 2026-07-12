@@ -192,8 +192,8 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Shorya234/">
-<img src="https://leetcard.jacoblin.cool/Shorya234?theme=dark&font=Karma&ext=heatmap"/>
+<a href="https://leetcode.com/u/user4240sr/">
+<img src="https://leetcard.jacoblin.cool/user4240sr?theme=dark&font=Karma&ext=heatmap"/>
 </a>
 
 </div>
