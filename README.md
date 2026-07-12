@@ -132,17 +132,39 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 
 🌐 **Live Demo:** *Add Streamlit Link*
 
-### Hybrid Healthcare RAG
+### 🏥 Hybrid Healthcare RAG Assistant
 
-- FAISS Vector Search
-- DialoGPT
-- LangChain
-- Google Maps API
+**A Retrieval-Augmented Generation (RAG) system that combines semantic search with fine-tuned language models for healthcare question answering.**
 
-### 🧠 Brain Tumor Detection
-- Built a multiclass brain tumor detection system using **VGG16 Transfer Learning** and **OpenCV** for MRI image preprocessing.
-- Classified brain MRI scans into **Glioma**, **Meningioma**, **Pituitary**, and **No Tumor** categories.
-- Achieved **97% accuracy** and a **weighted F1-score of 0.95**, enabling reliable classification across all four classes.
+**🔧 Tech Stack**
+
+`Python` • `LangChain` • `FAISS` • `DialoGPT` • `Sentence Transformers` • `RAG` • `Fine Tuning` 
+
+**✨ Highlights**
+
+- Engineered a hybrid **RAG pipeline** combining **FAISS vector search** with a fine-tuned **DialoGPT** model.
+- Implemented semantic retrieval using **Sentence Transformers** for accurate context-aware responses.
+- Reduced hallucinations through dynamic retrieval-generation switching.
+- Integrated **Google Maps API** to recommend nearby hospitals and healthcare facilities.
+
+🔗 **Repository:** *Add GitHub Link*
+
+### 🧠 Brain Tumor Detection using Deep Learning
+
+**A multiclass MRI image classification system for automated brain tumor detection.**
+
+**🔧 Tech Stack**
+
+`Python` • `TensorFlow` • `Keras` • `OpenCV` • `VGG16`
+
+**✨ Highlights**
+
+- Built a multiclass brain tumor detection system using **VGG16 Transfer Learning**.
+- Applied **OpenCV** for MRI image preprocessing and image enhancement.
+- Classified MRI scans into **Glioma**, **Meningioma**, **Pituitary**, and **No Tumor** categories.
+- Achieved **97% accuracy** with a **weighted F1-score of 0.95** across all four classes.
+
+🔗 **Repository:** *Add GitHub Link*
 
 ---
 
