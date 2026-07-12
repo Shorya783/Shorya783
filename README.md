@@ -1,8 +1,15 @@
 <div align="center">
+
 # Hi 👋 I'm Shorya Pathak
+
 ### AI/ML Engineer | Generative AI | LLMs | RAG
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Building+LLM+Applications;Developing+RAG+Pipelines;Engineering+Generative+AI+Solutions" alt="Typing SVG" />
-Transforming ideas into production-ready AI applications with LLMs, RAG, Deep Learning, and Python.
+
+<p>
+Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vision</b>, and <b>Deep Learning</b> to solve real-world challenges.
+</p>
+
 </div>
 ---
 
