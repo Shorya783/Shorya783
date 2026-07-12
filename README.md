@@ -186,64 +186,107 @@ Production GenAI Applications
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 </p>
+<div align="center">
+
 ## 🚀 Featured Projects
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Solutions;RAG+%7C+LLMs+%7C+Deep+Learning;From+Idea+to+Production" alt="Typing SVG" />
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="100%">
+
 ### 📄 AI Resume Analyzer
-
-**An AI-powered resume analysis platform that evaluates resumes using a locally hosted Llama 3.1 model.**
-
-**🔧 Tech Stack**
-
-`Python` • `LangChain` • `Llama 3.1` • `Ollama` • `Pydantic` • `Streamlit`
-
-**✨ Highlights**
-
-- Developed a **local-first AI resume analyzer** using **Llama 3.1** via **Ollama**, eliminating API costs through fully on-device inference.
-- Designed a **100-point ATS scoring engine** across multiple evaluation modules including skills, projects, experience, education, grammar, quantified              achievements, and resume completeness.
-- Built structured resume parsing using **Pydantic schemas** for reliable information extraction.
-- Deployed the application on **Streamlit Cloud** for seamless accessibility.
-
-🔗 **Repository:** *Add GitHub Link*
-
-🌐 **Live Demo:** *Add Streamlit Link*
-
+An AI-powered resume analysis platform that evaluates resumes using a **locally hosted Llama 3.1 model**.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Llama_3.1-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+<details>
+<summary><b>✨ Key Highlights (click to expand)</b></summary>
+<br>
+- 🖥️ Developed a **local-first** AI resume analyzer using Llama 3.1 via Ollama — **zero API costs**, fully on-device inference
+- 🎯 Designed a **100-point ATS scoring engine** across skills, projects, experience, education, grammar & quantified achievements
+- 🧩 Built structured resume parsing using **Pydantic schemas** for reliable information extraction
+- ☁️ Deployed on **Streamlit Cloud** for seamless accessibility
+</details>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
+</p>
+</td>
+</tr>
+</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&width=900" width="100%"/>
+<table>
+<tr>
+<td width="100%">
 ### 🏥 Hybrid Healthcare RAG Assistant
-
-**A Retrieval-Augmented Generation (RAG) system that combines semantic search with fine-tuned language models for healthcare question answering.**
-
-**🔧 Tech Stack**
-
-`Python` • `LangChain` • `FAISS` • `DialoGPT` • `Sentence Transformers` • `RAG` • `Fine Tuning` 
-
-**✨ Highlights**
-
-- Engineered a hybrid **RAG pipeline** combining **FAISS vector search** with a fine-tuned **DialoGPT** model.
-- Implemented semantic retrieval using **Sentence Transformers** for accurate context-aware responses.
-- Reduced hallucinations through dynamic retrieval-generation switching.
-- Integrated **Google Maps API** to recommend nearby hospitals and healthcare facilities.
-
-🔗 **Repository:** *Add GitHub Link*
-
+A Retrieval-Augmented Generation (RAG) system combining **semantic search** with **fine-tuned language models** for healthcare Q&A.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-00A8E8?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DialoGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentence_Transformers-FFB800?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fine_Tuning-FF6F00?style=for-the-badge"/>
+</p>
+<details>
+<summary><b>✨ Key Highlights (click to expand)</b></summary>
+<br>
+- 🔀 Engineered a **hybrid RAG pipeline** combining FAISS vector search with a fine-tuned DialoGPT model
+- 🔍 Implemented **semantic retrieval** using Sentence Transformers for accurate, context-aware responses
+- 🛡️ Reduced hallucinations through **dynamic retrieval-generation switching**
+- 🗺️ Integrated **Google Maps API** to recommend nearby hospitals & healthcare facilities
+</details>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+</td>
+</tr>
+</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&width=900" width="100%"/>
+<table>
+<tr>
+<td width="100%">
 ### 🧠 Brain Tumor Detection using Deep Learning
-
-**A multiclass MRI image classification system for automated brain tumor detection.** 
-
-**🔧 Tech Stack**
-
-`Python` • `TensorFlow` • `Keras` • `OpenCV` • `VGG16`
-
-**✨ Highlights**
-
-- Built a multiclass brain tumor detection system using **VGG16 Transfer Learning**.
-- Applied **OpenCV** for MRI image preprocessing and image enhancement.
-- Classified MRI scans into **Glioma**, **Meningioma**, **Pituitary**, and **No Tumor** categories.
-- Achieved **97% accuracy** with a **weighted F1-score of 0.95** across all four classes.
-
-🔗 **Repository:** *Add GitHub Link*
+A **multiclass MRI image classification** system for automated brain tumor detection.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VGG16-4285F4?style=for-the-badge"/>
+</p>
+<details>
+<summary><b>✨ Key Highlights (click to expand)</b></summary>
+<br>
+- 🏗️ Built a multiclass brain tumor detection system using **VGG16 Transfer Learning**
+- 🖼️ Applied **OpenCV** for MRI image preprocessing and enhancement
+- 🩺 Classified MRI scans into **Glioma, Meningioma, Pituitary, and No Tumor** categories
+- 🏆 Achieved **97% accuracy** with a weighted **F1-score of 0.95** across all four classes
+<br>
+**Accuracy:** ![](https://progress-bar.xyz/97/?width=200&color=00c9ff&title=97%25)
+</details>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+</td>
+</tr>
+</table>
+</div>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 </p>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
