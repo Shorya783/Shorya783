@@ -1,7 +1,8 @@
 <div align="center">
 <img 
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Initializing+AI+Portfolio...;Loading+Machine+Learning+Modules...;Loading+Computer+Vision...;Loading+LLMs+and+RAG...;System+Ready+%E2%9C%93"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=80&lines=Initializing+AI+Portfolio...;Loading+Machine+Learning+Modules...;Loading+Computer+Vision...;Loading+LLMs+and+RAG...;System+Ready+%E2%9C%93"
 alt="AI Portfolio Animation"
+height="80"
 />
 </div>
 
