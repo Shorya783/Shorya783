@@ -13,15 +13,20 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 </div>
 
 <div align="center">
-| 🚀 Current Role | 🤖 Focus Areas | 🛠️ Primary Language |
-|:---------------:|:--------------:|:-------------------:|
-| AI / ML Engineer | LLMs • RAG • Langchain | Python |
 
-| 📍 Current Goal | ⚡ Open To | ☁️ Deployment |
-|:---------------:|:---------:|:-------------:|
-| Building AI Applications | Internships & Open Source | Streamlit |
+# 🤖 AI Dashboard
 </div>
+| 🧑‍💻 **Profile** | 🚀 **Current Focus** |
+|:----------------:|:--------------------:|
+| AI / ML Engineer | LLMs • RAG • Computer Vision |
 
+| 🛠️ **Tech Stack** | ☁️ **Deployment** |
+|:----------------:|:-----------------:|
+| Python • TensorFlow • LangChain | Streamlit |
+
+| 🎯 **Current Goal** | 📈 **Status** |
+|:-------------------:|:-------------:|
+| Production GenAI Applications | 🟢 Open to Work |
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shorya-pathak-a97a7434b/">
