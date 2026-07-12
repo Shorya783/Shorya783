@@ -1,9 +1,5 @@
 <div align="center">
-<img 
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=80&lines=Initializing+AI+Portfolio...;Loading+Machine+Learning+Modules...;Loading+Computer+Vision...;Loading+LLMs+and+RAG...;System+Ready+%E2%9C%93"
-alt="AI Portfolio Animation"
-height="80"
-/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=150&section=header&text=AI%20%2F%20ML%20Engineer&fontSize=40&fontColor=00E5FF&animation=fadeIn"/>
 </div>
 
 <div align="center">
