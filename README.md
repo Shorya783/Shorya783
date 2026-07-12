@@ -401,8 +401,13 @@ A **multiclass MRI classification system** for automated brain tumor detection u
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,100:92fe9d&height=3&width=700"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&width=1000"/>
+
 
 </div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&color=gradient"/>
 </div>
+
