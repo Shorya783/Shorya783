@@ -113,12 +113,24 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 
 ## 🚀 Featured Projects
 
-### AI Resume Analyzer
+### 📄 AI Resume Analyzer
 
-- Local Llama 3.1 using Ollama
-- ATS Scoring Engine
-- Resume Parsing
-- Streamlit Deployment
+> **An AI-powered resume analysis platform that evaluates resumes using a locally hosted Llama 3.1 model.**
+
+**🔧 Tech Stack**
+
+`Python` • `LangChain` • `Llama 3.1` • `Ollama` • `Pydantic` • `Streamlit`
+
+**✨ Highlights**
+
+- Developed a **local-first AI resume analyzer** using **Llama 3.1** via **Ollama**, eliminating API costs through fully on-device inference.
+- Designed a **100-point ATS scoring engine** across multiple evaluation modules including skills, projects, experience, education, grammar, quantified              achievements, and resume completeness.
+- Built structured resume parsing using **Pydantic schemas** for reliable information extraction.
+- Deployed the application on **Streamlit Cloud** for seamless accessibility.
+
+🔗 **Repository:** *Add GitHub Link*
+
+🌐 **Live Demo:** *Add Streamlit Link*
 
 ### Hybrid Healthcare RAG
 
