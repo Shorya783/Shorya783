@@ -13,7 +13,7 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 <div align="center">
 <h2>🤖 AI Dashboard</h2>
 <p align="center">
-  <img src="divider.svg" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,50:8A2BE2,100:00E5FF"/>
 </p>
 <table>
 <tr>
