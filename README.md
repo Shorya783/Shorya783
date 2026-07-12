@@ -115,13 +115,6 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 
 ### 📄 AI Resume Analyzer
 
-<p align="left">
-<img src="https://img.shields.io/badge/LLM-Llama%203.1-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ollama--black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-Deployed-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/ATS-100%20Point%20Scoring-success?style=flat-square"/>
-</p>
-
 **An AI-powered resume analysis platform that evaluates resumes using a locally hosted Llama 3.1 model.**
 
 **🔧 Tech Stack**
