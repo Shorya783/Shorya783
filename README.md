@@ -11,7 +11,6 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 </p>
 
 </div>
----
 
 ## 👨‍💻 About Me
 
