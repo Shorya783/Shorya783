@@ -174,17 +174,17 @@ Building scalable AI systems powered by <b>LLMs</b>, <b>RAG</b>, <b>Computer Vis
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shorya783&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://streak-stats.demolab.com?user=Shorya783&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=Shorya783&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shorya783&theme=tokyonight"/>
 
-<br>
+<br><br>
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shorya783&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shorya783&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shorya783&theme=tokyonight"/>
 
 </div>
 
