@@ -4,13 +4,9 @@ src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&durati
 alt="AI Portfolio Animation"
 />
 </div>
-<div align="center">
-  <img 
-    src="banner.svg"
-    width="700"
-    alt="Shourya Pathak Banner"
-  />
-</div>
+
+![Shourya Pathak](shourya_pathak_banner_2.svg)
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Building+LLM+Applications;Developing+RAG+Pipelines;Engineering+Generative+AI+Solutions" alt="Typing SVG" />
 
