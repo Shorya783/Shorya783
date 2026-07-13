@@ -104,7 +104,7 @@ Production GenAI Applications
 </p>
 <div align="center">
   
-![Who Am I](who_am_i_banner_1.svg)
+![Who Am I](who_am_i_banner_1.svg) 
 
 </div>
 
