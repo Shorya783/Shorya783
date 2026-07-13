@@ -104,7 +104,7 @@ Production GenAI Applications
 </p>
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&width=1000&section=header&text=Who%20Am%20I&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%2FML%20Engineer%20crafting%20intelligent%2C%20real-world%20systems&descAlignY=65&descSize=15)
+![Who Am I](who_am_i_banner_1.svg)
 
 </div>
 
