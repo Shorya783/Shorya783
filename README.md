@@ -341,7 +341,7 @@ A **multiclass MRI classification system** for automated brain tumor detection u
 <br>
 <b>F1-Score</b>&nbsp;&nbsp;![](https://progress-bar.xyz/95/?width=280&color=ee0979&title=)
 
-[![Repo](https://img.shields.io/badge/🔗_Repository-0f0c29?style=for-the-badge)](#)
+[![Repo](https://img.shields.io/badge/🔗_Repository-0f0c29?style=for-the-badge)](https://github.com/Shorya783/Patient-Query-Assistant)
 
 </div>
 
