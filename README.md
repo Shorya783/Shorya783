@@ -94,7 +94,7 @@ Production GenAI Applications
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://tinyurl.com/4my28uwp">
+<a href="https://tinyurl.com/m7yd6zte">
   <img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
